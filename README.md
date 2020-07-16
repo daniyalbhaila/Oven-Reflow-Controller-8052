@@ -1,2 +1,2 @@
-# Oven-Reflow-Controller-8052
+# Oven-Reflow-Controller-Assembly
 Reflow Solder PCBs using a Toaster Oven
